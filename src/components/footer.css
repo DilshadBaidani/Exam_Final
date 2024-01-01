@@ -1,0 +1,21 @@
+/* Footer.css */
+
+.footer {
+  background-color: #343a40; /* Change background color as needed */
+}
+
+.footer h5 {
+  color: #ffffff; /* Change heading color as needed */
+}
+
+.footer a {
+  color: #ffffff; /* Change link color as needed */
+}
+
+.footer a:hover {
+  color: #f8f9fa; /* Change link color on hover as needed */
+}
+
+.footer p {
+  color: #6c757d; /* Change text color as needed */
+}

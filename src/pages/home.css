@@ -1,0 +1,65 @@
+/* .HeroSection {
+    position: relative;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.overlay-text h1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.overlay-text strong {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.txt-size, h1{
+    font-size: 7rem!important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.buy-word{
+    font-size: 7rem!important;
+    color: white!important;
+}
+
+.blurry-img{
+    filter: blur(3px);
+
+}
+ */
+
+/* Add this CSS to your styles.css or a separate CSS file */
+
+.my-container {
+  background-color: #f8f9fa; /* Change background color as needed */
+  padding: 40px; /* Add padding to the container */
+}
+
+.my-heading {
+  color: #044385; /* Change heading color as needed */
+}
+
+.my-paragraph {
+  color: #555; /* Change paragraph text color as needed */
+}
+
+.my-image {
+  border: 1px solid #ddd; /* Add border to the image */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for a subtle effect */
+}
+
+/* Add more styles as needed */
